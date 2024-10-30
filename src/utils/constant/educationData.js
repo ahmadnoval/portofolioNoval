@@ -5,7 +5,7 @@ const educationData = [
     startDate: "2020",
     endDate: "2024",
     major: "Information Engineering",
-    gpa: "3.86 / 4.00",
+    gpa: "3.56 / 4.00",
     icon: "fa-solid fa-user-graduate",
   },
   {
