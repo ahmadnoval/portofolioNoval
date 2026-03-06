@@ -5,7 +5,7 @@ import SocialMedia from "../SocialMedia/SocialMedia";
 import Navigation from "../Navigation/Navigation";
 import { motion } from "framer-motion";
 
-import MyCv from "../../../public/mycv.pdf";
+import MyCv from "../../../public/novalcv.pdf";
 
 const Header = () => {
   return (
